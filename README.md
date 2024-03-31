@@ -5,6 +5,7 @@ Interoperability of open research data from experimental and simulation workflow
 ## Authors
 
 - [Edan Bainglass](edan.bainglass@psi.ch) (PSI, Switzerland)
+- [Giovanni Pizzi](giovanni.pizzi@psi.ch) (PSI, Switzerland)
 
 ## Goal
 
@@ -12,12 +13,12 @@ The goal of this deliverable is to provide insight to future researchers interes
 
 ## Achievement
 
-The design principles detailed in this repository are under development. First offical assessment of their validity/applicability will come at the project's halfmark.
+The design recommendations for user interfaces to interact with digital twins is provided in the [D3.2 pdf file](https://github.com/ord-premise/digital-twins-interface-design/blob/main/D3.2.pdf). First offical assessment of the validity/applicability of the recommendations and guidelines will come at the project's halfmark.
 
 ## External links
 
-- [JSON-LD](https://json-ld.org/)
-- [RO-Crate](https://www.researchobject.org/ro-crate/)
+- [BIG-MAP](https://www.big-map.eu/)
+- [Aurora documentation](https://aiidalab-aurora.readthedocs.io/en/latest/)
 
 ## Acknowledgements
 
