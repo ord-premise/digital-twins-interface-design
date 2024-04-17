@@ -1,6 +1,6 @@
 # D3.2 - Design recommendations for user interfaces to interact with digital twins
 
-Interoperability of open research data from experimental and simulation workflows in a FAIR manner hinges on proper treatment of samples in a digital infrustructure. This repository contains living documents developed throughout the PREMISE project reflecting the experiences of the team in designing user interfaces to interact with so-called digital twins - the digital representations of physical samples used in experiments.
+Interoperability of open research data from experimental and simulation workflows in a FAIR manner hinges on proper treatment of samples in a digital infrastructure. This repository contains living documents developed throughout the PREMISE project reflecting the experiences of the team in designing user interfaces to interact with so-called digital twins - the digital representations of physical samples used in experiments.
 
 ## Authors
 
@@ -13,7 +13,7 @@ The goal of this deliverable is to provide insight to future researchers interes
 
 ## Achievement
 
-The design recommendations for user interfaces to interact with digital twins is provided in the [D3.2 pdf file](https://github.com/ord-premise/digital-twins-interface-design/blob/main/D3.2.pdf). First offical assessment of the validity/applicability of the recommendations and guidelines will come at the project's halfmark.
+The design recommendations for user interfaces to interact with digital twins is provided in the [D3.2 pdf file](https://github.com/ord-premise/digital-twins-interface-design/blob/main/D3.2.pdf). First official assessment of the validity/applicability of the recommendations and guidelines will come at the project's halfmark.
 
 ## External links
 
@@ -22,8 +22,8 @@ The design recommendations for user interfaces to interact with digital twins is
 
 ## Acknowledgements
 
-The [PREMISE](https://ord-premise.github.io/) project is supported by the [Open Research Data Program](https://ethrat.ch/en/eth-domain/open-research-data/) of the ETH Board.
+The [PREMISE](https://ord-premise.org/) project is supported by the [Open Research Data Program](https://ethrat.ch/en/eth-domain/open-research-data/) of the ETH Board.
 
-![image](https://github.com/ord-premise/metadata-batteries/assets/45081142/74640b5c-ee94-41e1-9acd-fa47da866fe8)
+![image](https://ord-premise.org/assets/img/logos/PREMISE-logo.svg)
 
-![image](https://github.com/ord-premise/metadata-batteries/assets/45081142/d282c4d9-feb3-47dc-b5d4-c616151518be)
+![image](https://ethrat.ch/wp-content/uploads/2021/12/ethr_en_rgb_black.svg)
