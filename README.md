@@ -1,6 +1,8 @@
 # D3.2 - Design recommendations for user interfaces to interact with digital twins
 
-Interoperability of open research data from experimental and simulation workflows in a FAIR manner hinges on proper treatment of samples in a digital infrastructure. This repository contains living documents developed throughout the PREMISE project reflecting the experiences of the team in designing user interfaces to interact with so-called digital twins - the digital representations of physical samples used in experiments.
+Interoperability of open research data from experimental and simulation workflows in a FAIR manner hinges on proper treatment of samples in a digital infrastructure. This repository contains a living document developed (and updated) throughout the PREMISE project reflecting the experiences of the team in designing user interfaces to interact with so-called digital twins - the digital representations of physical samples used in experiments.
+
+You may read the document [here](design-recommendations.md).
 
 ## Authors
 
