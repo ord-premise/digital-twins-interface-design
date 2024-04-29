@@ -15,7 +15,7 @@ The goal of this deliverable is to provide insight to future researchers interes
 
 ## Achievement
 
-The design recommendations for user interfaces to interact with digital twins is provided in the [D3.2 pdf file](https://github.com/ord-premise/digital-twins-interface-design/blob/main/D3.2.pdf). First official assessment of the validity/applicability of the recommendations and guidelines will come at the project's halfmark.
+The design recommendations for user interfaces to interact with digital twins is provided in the [design-recommendations.md](design-recommendations.md) file. First official assessment of the validity/applicability of the recommendations and guidelines will come at the project's halfmark.
 
 ## External links
 
