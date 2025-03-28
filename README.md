@@ -6,8 +6,8 @@ You may read the document [here](design-recommendations.md).
 
 ## Authors
 
-- [Edan Bainglass](edan.bainglass@psi.ch) (PSI, Switzerland)
-- [Giovanni Pizzi](giovanni.pizzi@psi.ch) (PSI, Switzerland)
+- Edan Bainglass (PSI)
+- Giovanni Pizzi (PSI)
 
 ## Goal
 
